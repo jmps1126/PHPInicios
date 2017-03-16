@@ -15,7 +15,7 @@
 	<div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h3 style="font-family: Century arial; text-align: center;">Ejercicios clase PHP</h3>
+			<h3 style="font-family: Century arial; text-align: center;">Ejercicios clase PHP Inicios en Git Hub</h3>
 			<div class="panel-group">
 			  <div class="panel panel-default">
 			    <div class="panel-heading" style="background-color: #D4D2D2;">
