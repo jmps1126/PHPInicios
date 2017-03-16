@@ -9,7 +9,7 @@
 </head>
 <body background="img/fondo.jpg">
 <!-- sección Prácticas en clase -->
-	<h2 style="font-family: Century arial; text-align: center;">Juan Manuel Pulgarin Serna</h2>
+	<h2 style="font-family: Century arial; text-align: center;">Juan Serna</h2>
 	
 
 	<div class="container">
