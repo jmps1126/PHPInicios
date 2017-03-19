@@ -9,13 +9,13 @@
 </head>
 <body background="img/fondo.jpg">
 <!-- sección Prácticas en clase -->
-	<h2 style="font-family: Century arial; text-align: center;">Juan Manuel Pulgarin Serna</h2>
+	<h2 style="font-family: Century arial; text-align: center;">Juan Serna</h2>
 	
 
 	<div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h3 style="font-family: Century arial; text-align: center;">Ejercicios clase PHP Inicios en Git Hub</h3>
+			<h3 style="font-family: Century arial; text-align: center;">TE AMO FEA</h3>
 			<div class="panel-group">
 			  <div class="panel panel-default">
 			    <div class="panel-heading" style="background-color: #D4D2D2;">
